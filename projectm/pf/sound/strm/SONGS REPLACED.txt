@@ -16,6 +16,9 @@ W15 - Super Mario Bros. 3 (Melee)	-> 	Yoshi's Story (Melee)
 W26 - Kongo Jungle (Melee)	-> 	Tal Tal Heights
 X02 - Menu 1    ->   Project M 3.5 Main Theme
 
-
+L03 - Environment Noises	->	Rattle
+W23 - Multi-Man Melee 1 (Melee)	->	Swordland
+E03 - Yohsi's Island	->	Yoshi's Island SLAM
+W31 - Giga Bowser (Melee)	->	PLVCK
 
 (If you stumbled upon this, you must be a curious sort! Hope you enjoy Project M!)
